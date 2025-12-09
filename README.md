@@ -1,2 +1,18 @@
 # 2-3-4-Player-Tag-Keyboard
 I'm making this keyboard since whenever me and my friends try to play 3 player tag on the same laptop, the keys start buggin out on the mac so I decided this will be a good option.
+
+
+Bottom:
+<img width="495" height="318" alt="Bottom Case" src="https://github.com/user-attachments/assets/4e37b2e9-133d-4d8a-adc3-4f16655c8505" />
+
+Top:
+<img width="566" height="357" alt="Top Case" src="https://github.com/user-attachments/assets/9dbca338-65eb-456f-b46a-ee1e407b3efa" />
+
+Full:
+<img width="517" height="452" alt="Full Case" src="https://github.com/user-attachments/assets/50e4c411-8a30-46f0-b369-62a56ec0a47d" />
+
+Schem:
+<img width="1169" height="827" alt="Schem" src="https://github.com/user-attachments/assets/d5b03f05-fc78-445f-a287-e30b3d173178" />
+
+PCB:
+<img width="742" height="233" alt="MacroPad" src="https://github.com/user-attachments/assets/ed9ffb89-d3ba-4f3f-a4fb-32310e984ef6" />
