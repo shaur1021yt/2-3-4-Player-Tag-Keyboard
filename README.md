@@ -47,3 +47,9 @@ PCB:
 
 <img width="863" height="358" alt="Screenshot 2025-12-16 at 7 46 19 pm" src="https://github.com/user-attachments/assets/b934f64e-1690-49ec-9753-223ddb073d68" />
 
+
+
+Full 3D Assembly:
+
+
+
