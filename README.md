@@ -51,5 +51,11 @@ PCB:
 
 Full 3D Assembly:
 
+<img width="606" height="342" alt="Fully Assembled CAD" src="https://github.com/user-attachments/assets/0331cc9e-ccf7-4436-b60b-83b2e01a6cca" />
+
+
+COSTS:
+
+<img width="1440" height="900" alt="Screenshot 2025-12-16 at 8 04 50 pm" src="https://github.com/user-attachments/assets/a9f04a51-46bb-4c8b-bfd5-25ebecea05a1" />
 
 
