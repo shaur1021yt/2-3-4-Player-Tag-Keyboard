@@ -58,4 +58,9 @@ COSTS:
 
 <img width="1440" height="900" alt="Screenshot 2025-12-16 at 8 04 50 pm" src="https://github.com/user-attachments/assets/a9f04a51-46bb-4c8b-bfd5-25ebecea05a1" />
 
+Final Assembly Real:
+
+<img width="692" height="520" alt="Screenshot 2026-01-25 at 1 39 44 pm" src="https://github.com/user-attachments/assets/b4915510-14d4-4022-b278-363d582a92c9" />
+
+
 
