@@ -1,6 +1,8 @@
 # 2-3-4-Player-Tag-Keyboard
 I'm making this keyboard since whenever me and my friends try to play 3 player tag on the same laptop, the keys start buggin out on the mac so I decided this will be a good option.
 
+To use, the keys in firmware are set to the movement keys of 3/4 of the 2 3 4 player tag. If wanting to play 4 player, one person uses the laptop keyboard
+
 
 Bottom:
 
